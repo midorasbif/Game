@@ -1,0 +1,1 @@
+Coloque os arquivos de imagem, som e sprites aqui.
